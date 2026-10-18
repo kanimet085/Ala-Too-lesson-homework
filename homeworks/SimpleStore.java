@@ -3,9 +3,9 @@ class SimpleStore {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
 
-        // ===== SIMPLE STORE =====
+//         // ===== SIMPLE STORE =====
 
-        // menu 
+//         // menu 
 
         int mausePrice = 20;
         int keyboardPrice = 40;
